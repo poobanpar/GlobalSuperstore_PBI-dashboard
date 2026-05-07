@@ -2,6 +2,7 @@
 The Global superstore a a dataset that contains transactional sales records from a superstore. It provides detailed information about orders, customers, products, shipping, and financial performance. The project highlights skills like data cleaning, processing and visualization.
 
 The dataset can be used to explore various business questions such as:
+
 •	Which markets and regions generate the most sales and profit?
 •	Which product categories or sub-categories perform best?
 •	How do discounts impact profitability?
