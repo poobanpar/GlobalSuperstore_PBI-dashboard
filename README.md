@@ -4,9 +4,13 @@ The Global superstore a a dataset that contains transactional sales records from
 The dataset can be used to explore various business questions such as:
 
 •	Which markets and regions generate the most sales and profit?
+
 •	Which product categories or sub-categories perform best?
+
 •	How do discounts impact profitability?
+
 •	What shipping modes and priorities are most commonly used?
+
 •	Which customer segments contribute the most revenue?
 
 We will also do this analysis:
