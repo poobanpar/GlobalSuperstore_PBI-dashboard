@@ -9,12 +9,14 @@ The dataset can be used to explore various business questions such as:
 •	Which customer segments contribute the most revenue?
 
 We will also do this analysis:
+
 •	Customers Analysis
 1.	Profile the customers based on their frequency of purchase - calculate frequency of purchase for each customer
 2.	Do the high frequent customers are contributing more revenue
 3.	Are they also profitable - what is the profit margin across the buckets
 4.	Which customer segment is most profitable in each year.
-5.	How the customers are distributed across the countries- -
+5.	How the customers are distributed across the countries.
+   
 •	Product Analysis
 1.	Which country has top sales?
 2.	Which are the top 5 profit-making product types on a yearly basis
