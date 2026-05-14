@@ -12,7 +12,6 @@ The company wanted to understand:
 
 ## Dataset
 - Source: Kaggle Global Superstore Dataset
-- Records: 9,994 rows
 - Features:
   - Sales
   - Profit
